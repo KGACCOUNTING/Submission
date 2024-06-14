@@ -104,7 +104,8 @@ Search for and Install Extensions:
 Python: For Python development.
 GitLens: For enhanced Git capabilities. <img width="949" alt="Gitlens" src="https://github.com/KGACCOUNTING/Submission/assets/171460313/7429a2bc-7ae8-489f-81ab-6240f62c4cbb">
 Docker: For Docker support.
-Prettier: For code formatting.
+Prettier: For code formatting.<img width="951" alt="Prettier" src="https://github.com/KGACCOUNTING/Submission/assets/171460313/6c53c101-6549-4ec2-8543-595fb79429a7">
+
 Github : <img width="960" alt="Github" src="https://github.com/KGACCOUNTING/Submission/assets/171460313/2e3468c3-25b5-49bf-af20-9c00b53dd197">
 
 
