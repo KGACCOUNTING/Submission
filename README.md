@@ -30,40 +30,24 @@ I ran the installer and followed the installation steps, making sure to select t
 Configure Git
 Open Git Bash to configure Git with my personal information:
 bash
-Copy code
-git config --global user.name "Your Name"
-git config --global user.email "your.email@example.com"
-Create a GitHub Account
-Sign Up:
-I created a new GitHub account by going to GitHub and signing up.
+
+I created a new GitHub account by going to GitHub and signing up Last week.
 Initialize a Git Repository
-Create a New Repository:
 
 On GitHub, I clicked on "New" to create a new repository named "my-project" and initialized it with a README file.
 Clone the Repository:
 
-I copied the repository URL (e.g., https://github.com/your-username/your-repository.git).
+I copied the repository URL (e.g., https://github.com/KGACCOUNTING/your-repository.git).
 In Git Bash, I ran:
 bash
-Copy code
-git clone https://github.com/your-username/your-repository.git
-Make Your First Commit:
 
 Navigating to the repository folder:
 bash
-Copy code
-cd your-repository
+
 I created a README file (if it wasn't already present):
 bash
-Copy code
-echo "# My Project" >> README.md
-Then, I added and committed the file:
-bash
-Copy code
-git add README.md
-git commit -m "Initial commit"
-git push origin main
-4. Install Necessary Programming Languages and Runtimes
+
+Install Necessary Programming Languages and Runtimes
 Install Python
 Python was the primary language I needed for my project.
 
@@ -76,18 +60,15 @@ I ran the installer and made sure to check the box to add Python to my system PA
 Verify Python Installation
 Open a command prompt and type:
 bash
-Copy code
-python --version
+
 This showed the installed Python version (e.g., Python 3.10.4).
+
 5. Install Package Managers
 Install pip (Python)
 Since pip comes with Python, I just needed to verify its installation.
 
 Verify pip Installation:
-In the command prompt, I typed:
-bash
-Copy code
-pip --version
+
 This confirmed that pip was installed (e.g., pip 21.0.1).
 6. Configure a Database (MySQL)
 Download and Install MySQL
@@ -121,7 +102,7 @@ Open Visual Studio Code and go to the Extensions view by clicking on the Extensi
 Search for and Install Extensions:
 
 Python: For Python development.
-GitLens: For enhanced Git capabilities.
+GitLens: For enhanced Git capabilities. <img width="949" alt="Gitlens" src="https://github.com/KGACCOUNTING/Submission/assets/171460313/7429a2bc-7ae8-489f-81ab-6240f62c4cbb">
 Docker: For Docker support.
 Prettier: For code formatting.
 
