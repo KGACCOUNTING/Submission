@@ -105,6 +105,8 @@ Python: For Python development.
 GitLens: For enhanced Git capabilities. <img width="949" alt="Gitlens" src="https://github.com/KGACCOUNTING/Submission/assets/171460313/7429a2bc-7ae8-489f-81ab-6240f62c4cbb">
 Docker: For Docker support.
 Prettier: For code formatting.
+Github : <img width="960" alt="Github" src="https://github.com/KGACCOUNTING/Submission/assets/171460313/2e3468c3-25b5-49bf-af20-9c00b53dd197">
+
 
 One issue was Git not being recognized in the command prompt. I fixed this by ensuring the installation path was correctly added to the system PATH.
 Configuring MySQL was confusing at first. I referred to the MySQL documentation and online tutorials for guidance.
